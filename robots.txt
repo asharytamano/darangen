@@ -1,0 +1,7 @@
+# Robots.txt for Darangen website
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Sitemap declaration
+Sitemap: https://darangen.maranaw.com/sitemap.xml
