@@ -487,7 +487,7 @@ span.cmb2-metabox-description {
 }
 /* line 462, sass/partials/_main_wrap.scss */
 .cmb2-media-status .img-status .cmb2-remove-file-button, .cmb2-media-status .embed-status .cmb2-remove-file-button {
-  background: url(/darangen-site/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/images/ico-delete.png);
+  background: url(/darangen/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/images/ico-delete.png);
   height: 16px;
   right: -5px;
   position: absolute;

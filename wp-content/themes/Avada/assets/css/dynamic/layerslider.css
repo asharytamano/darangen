@@ -9,7 +9,7 @@
 }
 #layerslider-wrapper .ls-shadow-top {
   position: absolute;
-  background-image: url("/darangen-site/wp-content/themes/Avada/assets/css/assets/images/shadow-top.png");
+  background-image: url("/darangen/wp-content/themes/Avada/assets/css/assets/images/shadow-top.png");
   background-repeat: no-repeat;
   background-position: top center;
   height: 42px;
@@ -19,7 +19,7 @@
 }
 #layerslider-wrapper .ls-shadow-bottom {
   position: absolute;
-  background-image: url("/darangen-site/wp-content/themes/Avada/assets/css/assets/images/shadow-bottom.png");
+  background-image: url("/darangen/wp-content/themes/Avada/assets/css/assets/images/shadow-bottom.png");
   background-repeat: no-repeat;
   background-position: bottom center;
   height: 32px;

@@ -56,7 +56,7 @@
   overflow: hidden;
 }
 .ilightbox-closedhand * {
-  cursor: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur), default !important;
+  cursor: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur), default !important;
 }
 .ilightbox-overlay {
   display: none;

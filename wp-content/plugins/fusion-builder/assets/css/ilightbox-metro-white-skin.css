@@ -5,7 +5,7 @@
   box-shadow: rgba(0, 0, 0, 0.3) 0 0 55px;
 }
 .ilightbox-loader.metro-white div {
-  background: #fff url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif) no-repeat center;
+  background: #fff url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif) no-repeat center;
 }
 .ilightbox-holder.metro-white {
   padding: 3px;
@@ -13,7 +13,7 @@
   box-shadow: 0 0 45px rgba(0, 0, 0, 0.2);
 }
 .ilightbox-holder.metro-white .ilightbox-container .ilightbox-caption {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png) repeat-x bottom;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png) repeat-x bottom;
   background-size: 100% 100%;
   left: 0;
   right: 0;
@@ -22,11 +22,11 @@
   padding-top: 15px;
 }
 .ilightbox-holder.metro-white .ilightbox-container .ilightbox-social {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png);
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png);
   border-radius: 2px;
 }
 .ilightbox-holder.metro-white .ilightbox-alert {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png) no-repeat center top;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png) no-repeat center top;
   color: #89949b;
 }
 .ilightbox-holder.metro-white .ilightbox-container .ilightbox-social ul li a {
@@ -44,7 +44,7 @@
 .ilightbox-toolbar.metro-white a {
   width: 27px;
   height: 25px;
-  background: white url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png) no-repeat 7px 6px;
+  background: white url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png) no-repeat 7px 6px;
 }
 .ilightbox-toolbar.metro-white a:hover {
   background-color: #51b7ff;
@@ -97,50 +97,50 @@
   background-position: 50%;
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-fullscreen {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-fullscreen:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-close {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-close:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-next-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png);
   background-position: 52% 50%;
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-next-button:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-next-button.disabled {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png);
   background-position: 52% 50%;
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-prev-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png);
   background-position: 48% 50%;
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-prev-button:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-prev-button.disabled {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png);
   background-position: 48% 50%;
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-play {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-play:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-pause {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.metro-white a.ilightbox-pause:hover {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png);
 }
 /* Style thumbnails */
 .ilightbox-thumbnails.metro-white.ilightbox-horizontal {
@@ -161,7 +161,7 @@
   border-radius: 0;
 }
 .ilightbox-thumbnails.metro-white .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png) no-repeat center;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png) no-repeat center;
 }
 .ilightbox-holder.metro-white .ilightbox-inner-toolbar .ilightbox-title {
   font-size: 18px;
@@ -196,7 +196,7 @@
   width: 30%;
   height: 100px;
   margin: auto;
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png) no-repeat 50% -100px;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png) no-repeat 50% -100px;
   background-color: #fff;
   background-color: rgba(255, 255, 255, 0.6);
 }
@@ -213,7 +213,7 @@
   bottom: 0;
   width: 100px;
   height: 30%;
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png);
   background-position: -93px 50%;
 }
 .ilightbox-button.ilightbox-prev-button.metro-white.horizontal {

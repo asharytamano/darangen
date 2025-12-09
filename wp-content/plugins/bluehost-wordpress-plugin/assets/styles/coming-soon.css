@@ -13,7 +13,7 @@ body {
 
 body:before {
 	content: '';
-	background-image: url(/darangen-site/wp-content/plugins/bluehost-wordpress-plugin/assets/svg/bluehost-favicon.svg);
+	background-image: url(/darangen/wp-content/plugins/bluehost-wordpress-plugin/assets/svg/bluehost-favicon.svg);
 	background-position: top right;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -267,7 +267,7 @@ footer p a:hover {
 
 .subscription_widget form .inputs.email input[type="email"] {
 	background-color: #fff;
-	background-image: url(/darangen-site/wp-content/plugins/bluehost-wordpress-plugin/assets/styles/images/icon-email.svg);
+	background-image: url(/darangen/wp-content/plugins/bluehost-wordpress-plugin/assets/styles/images/icon-email.svg);
 	background-position: 10px center;
 	background-repeat: no-repeat;
 	border: 1px solid #D7DEE0;

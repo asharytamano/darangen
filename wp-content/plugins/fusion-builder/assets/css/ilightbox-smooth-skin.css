@@ -5,7 +5,7 @@
   box-shadow: #000000 0 0 55px, rgba(0, 0, 0, 0.3) 0 0 55px;
 }
 .ilightbox-loader.smooth div {
-  background: #000 url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif) no-repeat center;
+  background: #000 url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif) no-repeat center;
 }
 .ilightbox-holder.smooth {
   box-shadow: 0 0 45px rgba(0, 0, 0, 0.9);
@@ -24,7 +24,7 @@
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.11);
 }
 .ilightbox-holder.smooth .ilightbox-container .ilightbox-caption {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png);
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png);
   border: 1px solid rgba(0, 0, 0, 0.2);
   left: 1px;
   right: 1px;
@@ -34,7 +34,7 @@
   border-radius: 0;
 }
 .ilightbox-holder.smooth .ilightbox-container .ilightbox-social {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png);
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png);
   border: 1px solid rgba(0, 0, 0, 0.2);
   right: 1px;
   left: 1px;
@@ -42,7 +42,7 @@
   border-radius: 0;
 }
 .ilightbox-holder.smooth .ilightbox-alert {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png) no-repeat center top;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png) no-repeat center top;
   color: #555;
 }
 /* Style toolbar */
@@ -57,7 +57,7 @@
 .ilightbox-toolbar.smooth a {
   width: 27px;
   height: 25px;
-  background: #000 url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png) no-repeat 7px 6px;
+  background: #000 url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png) no-repeat 7px 6px;
 }
 .ilightbox-toolbar.smooth a:hover {
   background-color: #51b7ff;
@@ -99,24 +99,24 @@
   background-position: 50%;
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-fullscreen {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-close {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-next-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png);
   background-position: 52% 50%;
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-prev-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png);
   background-position: 48% 50%;
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-play {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png);
 }
 .isMobile .ilightbox-toolbar.smooth a.ilightbox-pause {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png);
 }
 .ilightbox-holder.smooth .ilightbox-inner-toolbar .ilightbox-title {
   font-size: 18px;
@@ -172,7 +172,7 @@
   margin-right: -10px;
 }
 .ilightbox-thumbnails.smooth .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png) no-repeat center;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png) no-repeat center;
 }
 /* Configure arrow buttons */
 .ilightbox-button.smooth.disabled {
@@ -192,7 +192,7 @@
   width: 120px;
   height: 70px;
   margin: auto;
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png) no-repeat 50% -110px;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png) no-repeat 50% -110px;
   background-color: #000;
   background-color: rgba(0, 0, 0, 0.5);
   border: rgba(255, 255, 255, 0.2) 1px solid;
@@ -213,7 +213,7 @@
   bottom: 0;
   width: 70px;
   height: 120px;
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png);
   background-position: -110px 50%;
   border: rgba(255, 255, 255, 0.2) 1px solid;
 }

@@ -1653,7 +1653,7 @@
   transform: translateX(-50%);
 }
 .awb-setup-wizard-section.finished .awb-setup-wizard-hero {
-  background-image: url("/darangen-site/wp-content/themes/Avada/assets/admin/images/setup-wizard/congrats-bg.png");
+  background-image: url("/darangen/wp-content/themes/Avada/assets/admin/images/setup-wizard/congrats-bg.png");
   background-position: bottom center;
   background-size: cover;
 }

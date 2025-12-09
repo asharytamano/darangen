@@ -26,7 +26,7 @@
   margin-left: var(--awb-margin-left);
 }
 .fusion-audio.fusion-audio.dark-controls .mejs-button > button {
-  background-image: url("/darangen-site/wp-content/plugins/fusion-builder/assets/css/shortcodes/FUSION_AUDIO_SVG_URL");
+  background-image: url("/darangen/wp-content/plugins/fusion-builder/assets/css/shortcodes/FUSION_AUDIO_SVG_URL");
 }
 .fusion-audio.fusion-audio.dark-controls .awb-playback-rate .playback-rate-button {
   background: none;

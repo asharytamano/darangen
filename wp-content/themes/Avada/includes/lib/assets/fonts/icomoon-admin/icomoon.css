@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('/darangen-site/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.ttf?xkndjc') format('truetype'),
-    url('/darangen-site/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.woff?xkndjc') format('woff'),
-    url('/darangen-site/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.svg?xkndjc#icomoon') format('svg');
+    url('/darangen/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.ttf?xkndjc') format('truetype'),
+    url('/darangen/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.woff?xkndjc') format('woff'),
+    url('/darangen/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.svg?xkndjc#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

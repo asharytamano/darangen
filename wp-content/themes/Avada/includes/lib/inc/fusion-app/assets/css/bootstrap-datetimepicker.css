@@ -389,11 +389,11 @@
 /*CAL AND TIME FONTS*/
 @font-face {
 	font-family: 'count-down-timer';
-	src:url('/darangen-site/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.eot?32bexs');
-	src:url('/darangen-site/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.eot#iefix32bexs') format('embedded-opentype'),
-		url('/darangen-site/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.woff?32bexs') format('woff'),
-		url('/darangen-site/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.ttf?32bexs') format('truetype'),
-		url('/darangen-site/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.svg?32bexs#count-down-timer') format('svg');
+	src:url('/darangen/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.eot?32bexs');
+	src:url('/darangen/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.eot#iefix32bexs') format('embedded-opentype'),
+		url('/darangen/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.woff?32bexs') format('woff'),
+		url('/darangen/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.ttf?32bexs') format('truetype'),
+		url('/darangen/wp-content/themes/Avada/includes/lib/inc/fusion-app/assets/fonts/count-down/count-down-timer.svg?32bexs#count-down-timer') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

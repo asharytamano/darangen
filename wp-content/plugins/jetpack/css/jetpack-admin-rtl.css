@@ -204,7 +204,7 @@
   width: 30px;
   height: 30px;
   vertical-align: middle;
-  background: url(/darangen-site/wp-content/plugins/jetpack/images/connect-plug.svg) center center no-repeat;
+  background: url(/darangen/wp-content/plugins/jetpack/images/connect-plug.svg) center center no-repeat;
   background-size: 100%;
 }
 .download-jetpack::after {
@@ -278,8 +278,8 @@
  */
 @font-face {
   font-family: automatticons;
-  src: url(/darangen-site/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot);
-  src: url(/darangen-site/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot#iefix) format("embedded-opentype"), url(/darangen-site/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff) format("woff"), url(/darangen-site/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.ttf) format("truetype"), url(/darangen-site/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.svg#automatticonsregular) format("svg");
+  src: url(/darangen/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot);
+  src: url(/darangen/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot#iefix) format("embedded-opentype"), url(/darangen/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff) format("woff"), url(/darangen/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.ttf) format("truetype"), url(/darangen/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.svg#automatticonsregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
@@ -376,8 +376,8 @@
   position: relative;
   width: 214px;
   margin-left: 6px;
-  background: url(/darangen-site/wp-content/plugins/jetpack/images/jetpack-logo.png) center center no-repeat;
-  background: url(/darangen-site/wp-content/plugins/jetpack/images/jetpack-logo.svg) center center no-repeat, none;
+  background: url(/darangen/wp-content/plugins/jetpack/images/jetpack-logo.png) center center no-repeat;
+  background: url(/darangen/wp-content/plugins/jetpack/images/jetpack-logo.svg) center center no-repeat, none;
   background-size: 183px auto;
   color: #fff;
   line-height: 60px;
@@ -1144,7 +1144,7 @@
   font-weight: 400;
   height: 40px;
   width: 100%;
-  background-image: url(/darangen-site/wp-content/plugins/jetpack/images/icon-search.svg);
+  background-image: url(/darangen/wp-content/plugins/jetpack/images/icon-search.svg);
   background-repeat: no-repeat;
   background-position: 8px center;
   float: none;

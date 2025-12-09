@@ -5,7 +5,7 @@
   box-shadow: black 0 0 85px, black 0 0 85px;
 }
 .ilightbox-loader.mac div {
-  background: #141414 url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif) no-repeat center;
+  background: #141414 url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif) no-repeat center;
 }
 .ilightbox-holder.mac {
   padding: 2px;
@@ -13,7 +13,7 @@
   box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.6);
 }
 .ilightbox-holder.mac .ilightbox-container .ilightbox-caption {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png);
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png);
   color: #fff;
   bottom: 15px;
   left: 15px;
@@ -29,7 +29,7 @@
   color: #333;
 }
 .ilightbox-holder.mac .ilightbox-alert {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png) no-repeat center top;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png) no-repeat center top;
   color: #555;
 }
 /* Style toolbar */
@@ -61,18 +61,18 @@
   background-color: #4b4b4b;
 }
 .ilightbox-toolbar.mac a.ilightbox-close {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png);
 }
 .ilightbox-toolbar.mac a.ilightbox-fullscreen {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png);
   right: 35px;
 }
 .ilightbox-toolbar.mac a.ilightbox-play {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png);
   right: 35px;
 }
 .ilightbox-toolbar.mac a.ilightbox-pause {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png);
   right: 35px;
 }
 .isMobile .ilightbox-toolbar.mac {
@@ -98,26 +98,26 @@
   background-position: 50% !important;
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-fullscreen {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png);
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-close {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png);
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-next-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png);
   background-position: 52% 50% !important;
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-prev-button {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png);
   background-position: 48% 50% !important;
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-play {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png);
   background-size: 80%;
   background-position: 70% 50% !important;
 }
 .isMobile .ilightbox-toolbar.mac a.ilightbox-pause {
-  background-image: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png);
+  background-image: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png);
   background-size: 80%;
 }
 .ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-title {
@@ -140,7 +140,7 @@
   border-radius: 0;
 }
 .ilightbox-thumbnails.mac .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png) no-repeat center;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png) no-repeat center;
 }
 /* Configure arrow buttons */
 .ilightbox-button.mac.disabled {
@@ -181,10 +181,10 @@
   border-bottom-right-radius: 5px;
 }
 .ilightbox-button.ilightbox-next-button.mac span {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png) no-repeat 50% 75%;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png) no-repeat 50% 75%;
 }
 .ilightbox-button.ilightbox-prev-button.mac span {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png) no-repeat 50% 25%;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png) no-repeat 50% 25%;
 }
 .ilightbox-button.ilightbox-next-button.mac.horizontal,
 .ilightbox-button.ilightbox-prev-button.mac.horizontal {
@@ -206,8 +206,8 @@
   border-top-right-radius: 5px;
 }
 .ilightbox-button.ilightbox-next-button.mac.horizontal span {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png) no-repeat 75% 50%;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png) no-repeat 75% 50%;
 }
 .ilightbox-button.ilightbox-prev-button.mac.horizontal span {
-  background: url(/darangen-site/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png) no-repeat 25% 50%;
+  background: url(/darangen/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png) no-repeat 25% 50%;
 }
